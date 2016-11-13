@@ -8,7 +8,7 @@ const styles = {
     }
 };
 
-const DefaultValues = [1,2,3,4,5];
+const defaultValues = [1,2,3,4,5];
 
 const Ch = (props) => {
     let {checked, hovered, readOnly=false, ...p} = props;
