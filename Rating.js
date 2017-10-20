@@ -23,7 +23,10 @@ const Ch = props => {
 
 class Rating extends React.Component {
   static defaultProps = {
-    onChange: () => console.log('hi'),
+    onChange: value =>
+      console.log(
+        `Rated with value ${value}! Add onChange prop to hook into this event`
+      ),
     value: 0,
     readOnly: false,
   };
