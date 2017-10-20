@@ -1,6 +1,7 @@
 import React from 'react';
+import Star from 'material-ui/svg-icons/toggle/star'
+import StarBorder from 'material-ui/svg-icons/toggle/star-border'
 import { StarBorder, Star } from 'material-ui-icons';
-import colors from 'material-ui/colors';
 import { orange, grey } from 'material-ui/colors';
 
 const styles = {
