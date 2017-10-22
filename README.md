@@ -16,4 +16,4 @@ Default icon - star
 
 #### TODO:
 * Props to change default icon
-* add package.json file
+* ~~add package.json file~~
