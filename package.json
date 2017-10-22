@@ -1,6 +1,6 @@
 {
   "name": "react-material-ui-rating",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "description": "Rating component for React Material-ui",
   "main": "Rating.js",
   "scripts": {
