@@ -1,5 +1,12 @@
 # react-material-ui-rating
 
+**The current version is for Material UI v1.0**
+
+```bash
+npm install --save material-ui@next
+npm install --save material-ui-icons
+```
+
 Rating component for
 React (facebook.github.io/react/docs/getting-started.html)
 Material-ui (https://github.com/callemall/material-ui)
